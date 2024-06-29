@@ -1,0 +1,207 @@
+/* Extra small */
+@media (max-width:575px) {
+    
+    /* header section start */
+
+    .s_text {
+        margin-top: 12px;
+    }
+
+    .s_text h1 {
+        font-size: 29px;
+    }
+
+    .s_text h2 {
+        width: auto;
+    }
+
+    .menu ul li a{
+    
+        text-align: end;
+    
+    }
+
+    .menu ul li a{
+
+        margin-right: 0;
+    
+    }
+
+    .feature_text {
+        margin-top: -30px;
+    }
+
+    .feature_text h1 {
+        font-size: 30px;
+    }
+
+    .feature_text p {
+        font-size: 16px;
+    }
+
+    .text_box h2 {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .text_box p {
+        text-align: center;
+    }
+
+    .custom_f {
+        padding: 3px 8px;
+    }
+
+    .btn_submit {
+        padding: 6px 15px;
+    }
+
+    .about_icon {
+        margin-top: 55px;
+        margin-bottom: -82px;
+    }
+
+    address {
+        text-align: center;
+    }
+
+    .f_2 {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+
+    
+
+    /* header section end */
+
+}
+
+/* Small */
+@media (max-width:575px) and (min-width:767.98px) {
+
+        /* header section start */
+
+        .s_text {
+            margin-top: 12px;
+        }
+    
+        .s_text h1 {
+            font-size: 29px;
+        }
+    
+        .s_text h2 {
+            width: auto;
+        }
+    
+        .menu ul li a{
+        
+            text-align: end;
+        
+        }
+    
+        .menu ul li a{
+    
+            margin-right: 0;
+        
+        }
+    
+        .feature_text {
+            margin-top: -30px;
+        }
+    
+        .feature_text h1 {
+            font-size: 30px;
+        }
+    
+        .feature_text p {
+            font-size: 16px;
+        }
+    
+        .text_box h2 {
+            text-align: center;
+            margin-top: 20px;
+        }
+    
+        .text_box p {
+            text-align: center;
+        }
+    
+        .custom_f {
+            padding: 3px 8px;
+        }
+    
+        .btn_submit {
+            padding: 6px 15px;
+        }
+    
+        .about_icon {
+            margin-top: 55px;
+            margin-bottom: -82px;
+        }
+    
+        /* address {
+            text-align: center;
+        }
+    
+        .f_2 {
+            margin-top: 20px;
+            text-align: center;
+        }
+     */
+    
+}
+
+/* Medium */ 
+@media (max-width:768px) and (main-width:991px) {
+
+
+            
+    .menu ul li a{
+            
+        text-align: end;
+
+    }
+
+    .menu ul li a{
+
+        margin-right: 0;
+
+    }
+
+    .s_text h1 {
+        font-size: 27px;
+    }
+
+    .s_text h2 {
+        font-size: 17px;
+
+    }
+    
+    /* feature section*/
+
+    .feature_text {
+        margin-top: -20px;
+    }
+
+    .text_box {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    /* about section */
+    .about_icon {
+        margin-top: 43px;
+    }
+
+    .about_us {
+        padding-bottom: 70px;
+    }
+}
+
+/* Large */
+@media (max-width:992px) and (min-width:1100.98px) {
+
+
+    
+}
